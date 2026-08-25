@@ -80,12 +80,7 @@ You need three credentials in n8n:
 
 ---
 
-## Screenshots
 
-> Add screenshots to the `screenshots/` folder:
-> - `workflow-overview.png` — full n8n canvas
-> - `telegram-demo.png` — bot answering a question
-> - `upload-form.png` — the document upload form
 
 ---
 
