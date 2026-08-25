@@ -80,7 +80,16 @@ You need three credentials in n8n:
 
 ---
 
+## Screenshots
 
+### Workflow Overview
+![Workflow](screenshots/workflow-overview.png)
+
+### Telegram Bot in Action
+![Demo](screenshots/telegram-demo.png)
+
+### Document Upload Form
+![Form](screenshots/upload-form.png)
 
 ---
 
